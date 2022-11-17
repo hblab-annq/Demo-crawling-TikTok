@@ -27,18 +27,31 @@ const getTikTokUserInfo = async function () {
         let json = $("#SIGI_STATE").text();
         json = json.split("\n").join().split('\\"').join("");
         let obj = JSON.parse(json);
-        let list_vid_id = obj.ItemList["user-post"].list.splice(0, 6);
 
+        let list_vid_id = obj.ItemList["user-post"].list.splice(0, 6);
         let vid0 = obj.ItemModule[list_vid_id[0]];
 
-        let user_info = vid0.authorStats;
+        const { heartCount, followerCount, followingCount, videoCount } =
+          vid0.authorStats;
+        const name = $("[data-e2e='user-title']").text().trim();
+        const overview = $("[data-e2e='user-subtitle']").text().trim();
+
+        let user_info = {
+          name,
+          overview,
+          heartCount,
+          followerCount,
+          followingCount,
+          videoCount,
+        };
 
         let arr_vid = [];
         for (const id of list_vid_id) {
           let url = uri + `/video/` + id;
-          let vid_stat = obj.ItemModule[id].stats;
-          vid_stat.url = url;
-          arr_vid.push(vid_stat);
+          let video = obj.ItemModule[id].stats;
+          video.url = url;
+          video.date = getDate(id);
+          arr_vid.push(video);
         }
 
         data.push({
@@ -52,5 +65,19 @@ const getTikTokUserInfo = async function () {
   }
   return data;
 };
+
+function extractUnixTimestamp(vidId) {
+  // BigInt needed as we need to treat vidId as 64 bit decimal. This reduces browser support.
+  const asBinary = BigInt(vidId).toString(2);
+  const first31Chars = asBinary.slice(0, 31);
+  const timestamp = parseInt(first31Chars, 2);
+  return timestamp;
+}
+
+function getDate(vidId) {
+  const unixTimestamp = extractUnixTimestamp(vidId);
+  const milliseconds = unixTimestamp * 1000;
+  return milliseconds;
+}
 
 module.exports = getTikTokUserInfo;

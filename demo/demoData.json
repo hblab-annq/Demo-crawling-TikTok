@@ -1,24 +1,26 @@
 [
   {
     "user": {
-      "name": "mthu8707",
-      "overview": "𝐦𝐢𝐧𝐡 𝐭𝐡𝐮̛",
-      "heartCount": 487000,
       "followerCount": 27600,
       "followingCount": 80,
-      "videoCount": 88
+      "heart": 487000,
+      "heartCount": 487000,
+      "videoCount": 88,
+      "diggCount": 1818,
+      "user_name": "mthu8707",
+      "user_overview": "𝐦𝐢𝐧𝐡 𝐭𝐡𝐮̛"
     },
     "video": [
       {
         "diggCount": 563,
         "shareCount": 1,
         "commentCount": 0,
-        "playCount": 5368,
+        "playCount": 5363,
         "url": "https://www.tiktok.com/@mthu8707/video/7166170428367473947",
         "date": 1668504073000
       },
       {
-        "diggCount": 3766,
+        "diggCount": 3764,
         "shareCount": 5,
         "commentCount": 0,
         "playCount": 42100,
@@ -37,7 +39,7 @@
         "diggCount": 580,
         "shareCount": 1,
         "commentCount": 1,
-        "playCount": 6598,
+        "playCount": 6595,
         "url": "https://www.tiktok.com/@mthu8707/video/7164340824711400730",
         "date": 1668078085000
       },
@@ -61,24 +63,26 @@
   },
   {
     "user": {
-      "name": "huyenne2709",
-      "overview": "Thu Huyền 🎀",
-      "heartCount": 489200,
       "followerCount": 36800,
       "followingCount": 4,
-      "videoCount": 183
+      "heart": 489100,
+      "heartCount": 489100,
+      "videoCount": 183,
+      "diggCount": 22900,
+      "user_name": "huyenne2709",
+      "user_overview": "Thu Huyền 🎀"
     },
     "video": [
       {
-        "diggCount": 2273,
+        "diggCount": 2209,
         "shareCount": 3,
         "commentCount": 7,
-        "playCount": 24900,
+        "playCount": 24300,
         "url": "https://www.tiktok.com/@huyenne2709/video/7166453553169583387",
         "date": 1668569993000
       },
       {
-        "diggCount": 1732,
+        "diggCount": 1730,
         "shareCount": 1,
         "commentCount": 3,
         "playCount": 18700,
@@ -86,10 +90,10 @@
         "date": 1668569924000
       },
       {
-        "diggCount": 163,
+        "diggCount": 162,
         "shareCount": 0,
         "commentCount": 0,
-        "playCount": 1445,
+        "playCount": 1438,
         "url": "https://www.tiktok.com/@huyenne2709/video/7166255317657849114",
         "date": 1668523838000
       },
@@ -97,7 +101,7 @@
         "diggCount": 154,
         "shareCount": 1,
         "commentCount": 2,
-        "playCount": 1615,
+        "playCount": 1610,
         "url": "https://www.tiktok.com/@huyenne2709/video/7166249245224357147",
         "date": 1668522424000
       },
@@ -113,7 +117,7 @@
         "diggCount": 668,
         "shareCount": 0,
         "commentCount": 2,
-        "playCount": 6479,
+        "playCount": 6475,
         "url": "https://www.tiktok.com/@huyenne2709/video/7165752052256197915",
         "date": 1668406662000
       }
@@ -121,12 +125,14 @@
   },
   {
     "user": {
-      "name": "sinhke37",
-      "overview": "Dâu Tây1993",
-      "heartCount": 147900,
       "followerCount": 18300,
       "followingCount": 2538,
-      "videoCount": 112
+      "heart": 147900,
+      "heartCount": 147900,
+      "videoCount": 112,
+      "diggCount": 13800,
+      "user_name": "sinhke37",
+      "user_overview": "Dâu Tây1993"
     },
     "video": [
       {
@@ -181,35 +187,37 @@
   },
   {
     "user": {
-      "name": "1510_mie",
-      "overview": "Mi Trần 🐰",
-      "heartCount": 8700000,
       "followerCount": 499300,
       "followingCount": 22,
-      "videoCount": 194
+      "heart": 8700000,
+      "heartCount": 8700000,
+      "videoCount": 194,
+      "diggCount": 1552,
+      "user_name": "1510_mie",
+      "user_overview": "Mi Trần 🐰"
     },
     "video": [
       {
-        "diggCount": 1786,
-        "shareCount": 5,
-        "commentCount": 17,
-        "playCount": 7806,
+        "diggCount": 1188,
+        "shareCount": 3,
+        "commentCount": 15,
+        "playCount": 5107,
         "url": "https://www.tiktok.com/@1510_mie/video/7166907475185159450",
         "date": 1668675680000
       },
       {
-        "diggCount": 8925,
+        "diggCount": 7952,
         "shareCount": 7,
-        "commentCount": 48,
-        "playCount": 61700,
+        "commentCount": 45,
+        "playCount": 54200,
         "url": "https://www.tiktok.com/@1510_mie/video/7166891959611641115",
         "date": 1668672067000
       },
       {
-        "diggCount": 15500,
+        "diggCount": 15400,
         "shareCount": 8,
-        "commentCount": 106,
-        "playCount": 91800,
+        "commentCount": 105,
+        "playCount": 91400,
         "url": "https://www.tiktok.com/@1510_mie/video/7166627646221061403",
         "date": 1668610527000
       },
@@ -217,7 +225,7 @@
         "diggCount": 13000,
         "shareCount": 14,
         "commentCount": 76,
-        "playCount": 64500,
+        "playCount": 64300,
         "url": "https://www.tiktok.com/@1510_mie/video/7166581256770030875",
         "date": 1668599726000
       },
@@ -225,15 +233,15 @@
         "diggCount": 20900,
         "shareCount": 21,
         "commentCount": 153,
-        "playCount": 103000,
+        "playCount": 102800,
         "url": "https://www.tiktok.com/@1510_mie/video/7166547953644047643",
         "date": 1668591972000
       },
       {
         "diggCount": 22000,
-        "shareCount": 62,
+        "shareCount": 61,
         "commentCount": 101,
-        "playCount": 120500,
+        "playCount": 120300,
         "url": "https://www.tiktok.com/@1510_mie/video/7165809742810451227",
         "date": 1668420094000
       }
@@ -241,16 +249,18 @@
   },
   {
     "user": {
-      "name": "baokhuyensusan",
-      "overview": "Bảo Khuyên",
-      "heartCount": 11400000,
       "followerCount": 612300,
       "followingCount": 71,
-      "videoCount": 76
+      "heart": 11400000,
+      "heartCount": 11400000,
+      "videoCount": 76,
+      "diggCount": 8127,
+      "user_name": "baokhuyensusan",
+      "user_overview": "Bảo Khuyên"
     },
     "video": [
       {
-        "diggCount": 148800,
+        "diggCount": 148700,
         "shareCount": 742,
         "commentCount": 792,
         "playCount": 1500000,
@@ -269,7 +279,7 @@
         "diggCount": 67900,
         "shareCount": 26,
         "commentCount": 1992,
-        "playCount": 548200,
+        "playCount": 548100,
         "url": "https://www.tiktok.com/@baokhuyensusan/video/7162774547408702747",
         "date": 1667713408000
       },
@@ -291,7 +301,7 @@
       },
       {
         "diggCount": 87500,
-        "shareCount": 101,
+        "shareCount": 100,
         "commentCount": 299,
         "playCount": 1100000,
         "url": "https://www.tiktok.com/@baokhuyensusan/video/7159408513930857754",
@@ -301,12 +311,14 @@
   },
   {
     "user": {
-      "name": "baongochuynhquang3003",
-      "overview": "Lê Huỳnh Bảo Ngọc-Quang",
-      "heartCount": 29500000,
       "followerCount": 1700000,
       "followingCount": 192,
-      "videoCount": 126
+      "heart": 29500000,
+      "heartCount": 29500000,
+      "videoCount": 126,
+      "diggCount": 300,
+      "user_name": "baongochuynhquang3003",
+      "user_overview": "Lê Huỳnh Bảo Ngọc-Quang"
     },
     "video": [
       {
@@ -343,7 +355,7 @@
       },
       {
         "diggCount": 51900,
-        "shareCount": 64,
+        "shareCount": 63,
         "commentCount": 215,
         "playCount": 1100000,
         "url": "https://www.tiktok.com/@baongochuynhquang3003/video/7154349049997479194",
@@ -361,16 +373,18 @@
   },
   {
     "user": {
-      "name": "dorychang_03",
-      "overview": "ChangDory🐬",
-      "heartCount": 118400000,
       "followerCount": 5400000,
       "followingCount": 54,
-      "videoCount": 205
+      "heart": 118400000,
+      "heartCount": 118400000,
+      "videoCount": 205,
+      "diggCount": 4036,
+      "user_name": "dorychang_03",
+      "user_overview": "ChangDory🐬"
     },
     "video": [
       {
-        "diggCount": 230600,
+        "diggCount": 229700,
         "shareCount": 175,
         "commentCount": 207,
         "playCount": 3100000,
@@ -389,14 +403,14 @@
         "diggCount": 31600,
         "shareCount": 49,
         "commentCount": 251,
-        "playCount": 424500,
+        "playCount": 424400,
         "url": "https://www.tiktok.com/@dorychang_03/video/7162508389497572635",
         "date": 1667651438000
       },
       {
         "diggCount": 228500,
         "shareCount": 372,
-        "commentCount": 922,
+        "commentCount": 923,
         "playCount": 2300000,
         "url": "https://www.tiktok.com/@dorychang_03/video/7161388488724663579",
         "date": 1667390691000
@@ -421,16 +435,18 @@
   },
   {
     "user": {
-      "name": "vt.my204",
-      "overview": "𝗩𝘂 𝗧𝗿𝗮 𝗠𝘆 🐣",
-      "heartCount": 2100000,
       "followerCount": 220800,
       "followingCount": 25,
-      "videoCount": 69
+      "heart": 2100000,
+      "heartCount": 2100000,
+      "videoCount": 69,
+      "diggCount": 2371,
+      "user_name": "vt.my204",
+      "user_overview": "𝗩𝘂 𝗧𝗿𝗮 𝗠𝘆 🐣"
     },
     "video": [
       {
-        "diggCount": 1488,
+        "diggCount": 1485,
         "shareCount": 2,
         "commentCount": 6,
         "playCount": 17700,
@@ -438,7 +454,7 @@
         "date": 1668626692000
       },
       {
-        "diggCount": 2700,
+        "diggCount": 2699,
         "shareCount": 6,
         "commentCount": 30,
         "playCount": 18100,
@@ -457,7 +473,7 @@
         "diggCount": 37700,
         "shareCount": 70,
         "commentCount": 145,
-        "playCount": 408300,
+        "playCount": 408200,
         "url": "https://www.tiktok.com/@vt.my204/video/7162005819272301851",
         "date": 1667534424000
       },
@@ -481,16 +497,18 @@
   },
   {
     "user": {
-      "name": "vuhongngoc_206",
-      "overview": "Vu Hong Ngoc",
-      "heartCount": 773000,
       "followerCount": 48100,
       "followingCount": 9,
-      "videoCount": 12
+      "heart": 773000,
+      "heartCount": 773000,
+      "videoCount": 12,
+      "diggCount": 6766,
+      "user_name": "vuhongngoc_206",
+      "user_overview": "Vu Hong Ngoc"
     },
     "video": [
       {
-        "diggCount": 2228,
+        "diggCount": 2226,
         "shareCount": 0,
         "commentCount": 15,
         "playCount": 19100,
@@ -509,7 +527,7 @@
         "diggCount": 19100,
         "shareCount": 17,
         "commentCount": 43,
-        "playCount": 206500,
+        "playCount": 206300,
         "url": "https://www.tiktok.com/@vuhongngoc_206/video/7162438782279568667",
         "date": 1667635231000
       },
@@ -517,7 +535,7 @@
         "diggCount": 25500,
         "shareCount": 18,
         "commentCount": 93,
-        "playCount": 364000,
+        "playCount": 363900,
         "url": "https://www.tiktok.com/@vuhongngoc_206/video/7161615611146079514",
         "date": 1667443572000
       },
@@ -533,7 +551,7 @@
         "diggCount": 52500,
         "shareCount": 23,
         "commentCount": 89,
-        "playCount": 499400,
+        "playCount": 499300,
         "url": "https://www.tiktok.com/@vuhongngoc_206/video/7160316571255180570",
         "date": 1667141116000
       }
@@ -541,27 +559,29 @@
   },
   {
     "user": {
-      "name": "thanhmeo.18",
-      "overview": "Thanh Mèo",
-      "heartCount": 44800000,
       "followerCount": 2300000,
       "followingCount": 75,
-      "videoCount": 950
+      "heart": 44800000,
+      "heartCount": 44800000,
+      "videoCount": 950,
+      "diggCount": 1948,
+      "user_name": "thanhmeo.18",
+      "user_overview": "Thanh Mèo"
     },
     "video": [
       {
-        "diggCount": 20600,
+        "diggCount": 20500,
         "shareCount": 22,
         "commentCount": 80,
-        "playCount": 266600,
+        "playCount": 266200,
         "url": "https://www.tiktok.com/@thanhmeo.18/video/7166468108272667931",
         "date": 1668573382000
       },
       {
-        "diggCount": 9596,
+        "diggCount": 9592,
         "shareCount": 8,
         "commentCount": 37,
-        "playCount": 108800,
+        "playCount": 108700,
         "url": "https://www.tiktok.com/@thanhmeo.18/video/7165841206528757018",
         "date": 1668427420000
       },
@@ -569,7 +589,7 @@
         "diggCount": 36800,
         "shareCount": 51,
         "commentCount": 129,
-        "playCount": 573700,
+        "playCount": 573600,
         "url": "https://www.tiktok.com/@thanhmeo.18/video/7165471175722749211",
         "date": 1668341265000
       },
@@ -577,7 +597,7 @@
         "diggCount": 27300,
         "shareCount": 49,
         "commentCount": 62,
-        "playCount": 304200,
+        "playCount": 304100,
         "url": "https://www.tiktok.com/@thanhmeo.18/video/7164725188356082971",
         "date": 1668167577000
       },
@@ -601,19 +621,21 @@
   },
   {
     "user": {
-      "name": "_phuongnhi.22",
-      "overview": "Nguyễn Phương Nhi",
-      "heartCount": 5800000,
-      "followerCount": 318800,
+      "followerCount": 318900,
       "followingCount": 26,
-      "videoCount": 127
+      "heart": 5800000,
+      "heartCount": 5800000,
+      "videoCount": 127,
+      "diggCount": 3789,
+      "user_name": "_phuongnhi.22",
+      "user_overview": "Nguyễn Phương Nhi"
     },
     "video": [
       {
         "diggCount": 22300,
         "shareCount": 16,
         "commentCount": 104,
-        "playCount": 197800,
+        "playCount": 197600,
         "url": "https://www.tiktok.com/@_phuongnhi.22/video/7166244873782185242",
         "date": 1668521406000
       },
@@ -621,12 +643,12 @@
         "diggCount": 23000,
         "shareCount": 12,
         "commentCount": 54,
-        "playCount": 293500,
+        "playCount": 293400,
         "url": "https://www.tiktok.com/@_phuongnhi.22/video/7165898323897928987",
         "date": 1668440719000
       },
       {
-        "diggCount": 17000,
+        "diggCount": 16900,
         "shareCount": 11,
         "commentCount": 83,
         "playCount": 132600,
@@ -637,7 +659,7 @@
         "diggCount": 24000,
         "shareCount": 26,
         "commentCount": 143,
-        "playCount": 245500,
+        "playCount": 245200,
         "url": "https://www.tiktok.com/@_phuongnhi.22/video/7165363361503399195",
         "date": 1668316163000
       },
@@ -645,7 +667,7 @@
         "diggCount": 71100,
         "shareCount": 119,
         "commentCount": 407,
-        "playCount": 960800,
+        "playCount": 960700,
         "url": "https://www.tiktok.com/@_phuongnhi.22/video/7165128280708762906",
         "date": 1668261429000
       },
@@ -661,51 +683,53 @@
   },
   {
     "user": {
-      "name": "chikimhoang0310",
-      "overview": "Chi Kim Hoàng",
-      "heartCount": 74000000,
       "followerCount": 2400000,
       "followingCount": 32,
-      "videoCount": 1678
+      "heart": 74000000,
+      "heartCount": 74000000,
+      "videoCount": 1678,
+      "diggCount": 1899,
+      "user_name": "chikimhoang0310",
+      "user_overview": "Chi Kim Hoàng"
     },
     "video": [
       {
-        "diggCount": 2905,
+        "diggCount": 2801,
         "shareCount": 8,
-        "commentCount": 65,
-        "playCount": 32400,
+        "commentCount": 64,
+        "playCount": 31200,
         "url": "https://www.tiktok.com/@chikimhoang0310/video/7166864637768584474",
         "date": 1668665706000
       },
       {
-        "diggCount": 1177,
+        "diggCount": 1168,
         "shareCount": 1,
         "commentCount": 14,
-        "playCount": 12100,
+        "playCount": 11900,
         "url": "https://www.tiktok.com/@chikimhoang0310/video/7166817242519194906",
         "date": 1668654671000
       },
       {
-        "diggCount": 21600,
+        "diggCount": 21500,
         "shareCount": 32,
-        "commentCount": 276,
-        "playCount": 326300,
+        "commentCount": 275,
+        "playCount": 325100,
         "url": "https://www.tiktok.com/@chikimhoang0310/video/7166509865093877018",
         "date": 1668583104000
       },
       {
-        "diggCount": 4141,
+        "diggCount": 4135,
         "shareCount": 11,
         "commentCount": 80,
-        "playCount": 155700,
+        "playCount": 155400,
         "url": "https://www.tiktok.com/@chikimhoang0310/video/7166488172753407259",
         "date": 1668578054000
       },
       {
-        "diggCount": 6463,
+        "diggCount": 6459,
         "shareCount": 6,
         "commentCount": 126,
-        "playCount": 95500,
+        "playCount": 95400,
         "url": "https://www.tiktok.com/@chikimhoang0310/video/7166193359881506075",
         "date": 1668509412000
       },
@@ -713,7 +737,7 @@
         "diggCount": 31500,
         "shareCount": 76,
         "commentCount": 347,
-        "playCount": 547700,
+        "playCount": 547500,
         "url": "https://www.tiktok.com/@chikimhoang0310/video/7165842752918261019",
         "date": 1668427780000
       }
@@ -721,24 +745,26 @@
   },
   {
     "user": {
-      "name": "mylanbeauty",
-      "overview": "Lê MyLan",
-      "heartCount": 18000000,
       "followerCount": 1100000,
       "followingCount": 2,
-      "videoCount": 1806
+      "heart": 18000000,
+      "heartCount": 18000000,
+      "videoCount": 1806,
+      "diggCount": 2626,
+      "user_name": "mylanbeauty",
+      "user_overview": "Lê MyLan"
     },
     "video": [
       {
-        "diggCount": 121,
+        "diggCount": 117,
         "shareCount": 0,
         "commentCount": 2,
-        "playCount": 2443,
+        "playCount": 2368,
         "url": "https://www.tiktok.com/@mylanbeauty/video/7166856080100756762",
         "date": 1668663714000
       },
       {
-        "diggCount": 2837,
+        "diggCount": 2827,
         "shareCount": 11,
         "commentCount": 19,
         "playCount": 33700,
@@ -749,15 +775,15 @@
         "diggCount": 814,
         "shareCount": 2,
         "commentCount": 12,
-        "playCount": 16200,
+        "playCount": 16100,
         "url": "https://www.tiktok.com/@mylanbeauty/video/7166246811152272666",
         "date": 1668521857000
       },
       {
-        "diggCount": 3083,
+        "diggCount": 3081,
         "shareCount": 6,
         "commentCount": 18,
-        "playCount": 33800,
+        "playCount": 33700,
         "url": "https://www.tiktok.com/@mylanbeauty/video/7166181930587704602",
         "date": 1668506751000
       },
@@ -781,19 +807,21 @@
   },
   {
     "user": {
-      "name": "thuytrangnguyen1902",
-      "overview": "Chin 🐻",
-      "heartCount": 802000,
       "followerCount": 117500,
       "followingCount": 2,
-      "videoCount": 51
+      "heart": 802000,
+      "heartCount": 802000,
+      "videoCount": 51,
+      "diggCount": 751,
+      "user_name": "thuytrangnguyen1902",
+      "user_overview": "Chin 🐻"
     },
     "video": [
       {
         "diggCount": 370,
         "shareCount": 1,
         "commentCount": 0,
-        "playCount": 3349,
+        "playCount": 3340,
         "url": "https://www.tiktok.com/@thuytrangnguyen1902/video/7166466628840901915",
         "date": 1668573037000
       },
@@ -806,7 +834,7 @@
         "date": 1668350056000
       },
       {
-        "diggCount": 5418,
+        "diggCount": 5416,
         "shareCount": 11,
         "commentCount": 15,
         "playCount": 36300,
@@ -841,27 +869,29 @@
   },
   {
     "user": {
-      "name": "chinliuliu",
-      "overview": "Chin 16 tuội",
-      "heartCount": 734300,
       "followerCount": 78800,
       "followingCount": 349,
-      "videoCount": 108
+      "heart": 734300,
+      "heartCount": 734300,
+      "videoCount": 108,
+      "diggCount": 11000,
+      "user_name": "chinliuliu",
+      "user_overview": "Chin 16 tuội"
     },
     "video": [
       {
-        "diggCount": 212,
+        "diggCount": 207,
         "shareCount": 0,
         "commentCount": 5,
-        "playCount": 1557,
+        "playCount": 1525,
         "url": "https://www.tiktok.com/@chinliuliu/video/7166883971492613403",
         "date": 1668670208000
       },
       {
-        "diggCount": 890,
+        "diggCount": 888,
         "shareCount": 0,
-        "commentCount": 3,
-        "playCount": 5631,
+        "commentCount": 2,
+        "playCount": 5618,
         "url": "https://www.tiktok.com/@chinliuliu/video/7166641851682852122",
         "date": 1668613835000
       },
@@ -869,7 +899,7 @@
         "diggCount": 231,
         "shareCount": 0,
         "commentCount": 8,
-        "playCount": 2562,
+        "playCount": 2555,
         "url": "https://www.tiktok.com/@chinliuliu/video/7166580832029642011",
         "date": 1668599627000
       },
@@ -877,7 +907,7 @@
         "diggCount": 204,
         "shareCount": 0,
         "commentCount": 1,
-        "playCount": 2601,
+        "playCount": 2598,
         "url": "https://www.tiktok.com/@chinliuliu/video/7166283202280181018",
         "date": 1668530330000
       },
@@ -885,7 +915,7 @@
         "diggCount": 215,
         "shareCount": 0,
         "commentCount": 2,
-        "playCount": 3884,
+        "playCount": 3881,
         "url": "https://www.tiktok.com/@chinliuliu/video/7166165408238554395",
         "date": 1668502904000
       },
@@ -893,7 +923,7 @@
         "diggCount": 225,
         "shareCount": 0,
         "commentCount": 0,
-        "playCount": 4156,
+        "playCount": 4150,
         "url": "https://www.tiktok.com/@chinliuliu/video/7166091593060044059",
         "date": 1668485718000
       }
@@ -901,27 +931,29 @@
   },
   {
     "user": {
-      "name": "hantatcanyc",
-      "overview": "𝓜𝔂𝓷𝓱🐰",
-      "heartCount": 629700,
       "followerCount": 62000,
       "followingCount": 15,
-      "videoCount": 63
+      "heart": 629700,
+      "heartCount": 629700,
+      "videoCount": 63,
+      "diggCount": 12400,
+      "user_name": "hantatcanyc",
+      "user_overview": "𝓜𝔂𝓷𝓱🐰"
     },
     "video": [
       {
-        "diggCount": 333,
+        "diggCount": 331,
         "shareCount": 0,
         "commentCount": 3,
-        "playCount": 2751,
+        "playCount": 2703,
         "url": "https://www.tiktok.com/@hantatcanyc/video/7166836141528763675",
         "date": 1668659071000
       },
       {
-        "diggCount": 305,
+        "diggCount": 303,
         "shareCount": 0,
         "commentCount": 0,
-        "playCount": 3507,
+        "playCount": 3491,
         "url": "https://www.tiktok.com/@hantatcanyc/video/7166563119106362650",
         "date": 1668595503000
       },
@@ -929,7 +961,7 @@
         "diggCount": 1251,
         "shareCount": 4,
         "commentCount": 6,
-        "playCount": 9618,
+        "playCount": 9609,
         "url": "https://www.tiktok.com/@hantatcanyc/video/7165345786857917723",
         "date": 1668312071000
       },
@@ -937,7 +969,7 @@
         "diggCount": 555,
         "shareCount": 0,
         "commentCount": 2,
-        "playCount": 5582,
+        "playCount": 5578,
         "url": "https://www.tiktok.com/@hantatcanyc/video/7165345674261728538",
         "date": 1668312045000
       },
@@ -945,7 +977,7 @@
         "diggCount": 450,
         "shareCount": 0,
         "commentCount": 2,
-        "playCount": 4933,
+        "playCount": 4930,
         "url": "https://www.tiktok.com/@hantatcanyc/video/7165179191422487835",
         "date": 1668273283000
       },
@@ -961,12 +993,14 @@
   },
   {
     "user": {
-      "name": "pkhanhlinh",
-      "overview": "_chupachups_ 🐰",
-      "heartCount": 82800,
       "followerCount": 10300,
       "followingCount": 16,
-      "videoCount": 174
+      "heart": 82800,
+      "heartCount": 82800,
+      "videoCount": 174,
+      "diggCount": 16900,
+      "user_name": "pkhanhlinh",
+      "user_overview": "_chupachups_ 🐰"
     },
     "video": [
       {
@@ -1021,12 +1055,14 @@
   },
   {
     "user": {
-      "name": "mie_bunny",
-      "overview": "Mie Amy 🧜🏻‍♀️",
-      "heartCount": 138600,
       "followerCount": 12900,
       "followingCount": 29,
-      "videoCount": 24
+      "heart": 138600,
+      "heartCount": 138600,
+      "videoCount": 24,
+      "diggCount": 4493,
+      "user_name": "mie_bunny",
+      "user_overview": "Mie Amy 🧜🏻‍♀️"
     },
     "video": [
       {
@@ -1081,12 +1117,14 @@
   },
   {
     "user": {
-      "name": "kyymngan_",
-      "overview": "Kym Ngân 🧸",
-      "heartCount": 186600,
       "followerCount": 25900,
       "followingCount": 133,
-      "videoCount": 19
+      "heart": 186600,
+      "heartCount": 186600,
+      "videoCount": 19,
+      "diggCount": 8419,
+      "user_name": "kyymngan_",
+      "user_overview": "Kym Ngân 🧸"
     },
     "video": [
       {
@@ -1141,12 +1179,14 @@
   },
   {
     "user": {
-      "name": "ttlinhchi_2001",
-      "overview": "Trương Thị Linh Chi",
-      "heartCount": 7328,
-      "followerCount": 1189,
+      "followerCount": 1188,
       "followingCount": 12,
-      "videoCount": 15
+      "heart": 7328,
+      "heartCount": 7328,
+      "videoCount": 15,
+      "diggCount": 213,
+      "user_name": "ttlinhchi_2001",
+      "user_overview": "Trương Thị Linh Chi"
     },
     "video": [
       {
@@ -1201,12 +1241,14 @@
   },
   {
     "user": {
-      "name": "tagmimi",
-      "overview": "Bà Hoàng Flop 🥲",
-      "heartCount": 30500,
       "followerCount": 2499,
       "followingCount": 9,
-      "videoCount": 23
+      "heart": 30500,
+      "heartCount": 30500,
+      "videoCount": 23,
+      "diggCount": 28800,
+      "user_name": "tagmimi",
+      "user_overview": "Bà Hoàng Flop 🥲"
     },
     "video": [
       {
@@ -1261,12 +1303,14 @@
   },
   {
     "user": {
-      "name": "tittay15",
-      "overview": "Tittay15",
-      "heartCount": 15200,
       "followerCount": 2774,
       "followingCount": 59,
-      "videoCount": 97
+      "heart": 15200,
+      "heartCount": 15200,
+      "videoCount": 97,
+      "diggCount": 424,
+      "user_name": "tittay15",
+      "user_overview": "Tittay15"
     },
     "video": [
       {
@@ -1281,7 +1325,7 @@
         "diggCount": 397,
         "shareCount": 0,
         "commentCount": 4,
-        "playCount": 3713,
+        "playCount": 3711,
         "url": "https://www.tiktok.com/@tittay15/video/7164095958689713434",
         "date": 1668021073000
       },
@@ -1321,12 +1365,14 @@
   },
   {
     "user": {
-      "name": "nguoiyeuanhh_",
-      "overview": "❤️",
-      "heartCount": 23100,
       "followerCount": 2665,
       "followingCount": 14,
-      "videoCount": 127
+      "heart": 23100,
+      "heartCount": 23100,
+      "videoCount": 127,
+      "diggCount": 1473,
+      "user_name": "nguoiyeuanhh_",
+      "user_overview": "❤️"
     },
     "video": [
       {
@@ -1381,12 +1427,14 @@
   },
   {
     "user": {
-      "name": "hthu_dei",
-      "overview": "Hthu_𓆙",
-      "heartCount": 29700,
       "followerCount": 5222,
       "followingCount": 0,
-      "videoCount": 76
+      "heart": 29700,
+      "heartCount": 29700,
+      "videoCount": 76,
+      "diggCount": 4219,
+      "user_name": "hthu_dei",
+      "user_overview": "Hthu_𓆙"
     },
     "video": [
       {
@@ -1441,12 +1489,14 @@
   },
   {
     "user": {
-      "name": "v.nhuquynh",
-      "overview": "Võ Như Quỳnh",
-      "heartCount": 24800,
       "followerCount": 6472,
       "followingCount": 346,
-      "videoCount": 77
+      "heart": 24800,
+      "heartCount": 24800,
+      "videoCount": 77,
+      "diggCount": 6665,
+      "user_name": "v.nhuquynh",
+      "user_overview": "Võ Như Quỳnh"
     },
     "video": [
       {
@@ -1501,12 +1551,14 @@
   },
   {
     "user": {
-      "name": "tuyethoa270999",
-      "overview": "TuyêtHoa99",
-      "heartCount": 6818,
       "followerCount": 1583,
       "followingCount": 2,
-      "videoCount": 23
+      "heart": 6818,
+      "heartCount": 6818,
+      "videoCount": 23,
+      "diggCount": 249,
+      "user_name": "tuyethoa270999",
+      "user_overview": "TuyêtHoa99"
     },
     "video": [
       {
@@ -1521,7 +1573,7 @@
         "diggCount": 273,
         "shareCount": 0,
         "commentCount": 3,
-        "playCount": 2879,
+        "playCount": 2877,
         "url": "https://www.tiktok.com/@tuyethoa270999/video/7165158832509881626",
         "date": 1668268542000
       },
@@ -1529,7 +1581,7 @@
         "diggCount": 42,
         "shareCount": 0,
         "commentCount": 0,
-        "playCount": 284,
+        "playCount": 283,
         "url": "https://www.tiktok.com/@tuyethoa270999/video/7164102076702706971",
         "date": 1668022497000
       },
@@ -1561,19 +1613,21 @@
   },
   {
     "user": {
-      "name": "nkieu2k1",
-      "overview": "Trần Ngọc Kiều🦋",
-      "heartCount": 10900,
       "followerCount": 3072,
       "followingCount": 54,
-      "videoCount": 37
+      "heart": 10900,
+      "heartCount": 10900,
+      "videoCount": 37,
+      "diggCount": 4445,
+      "user_name": "nkieu2k1",
+      "user_overview": "Trần Ngọc Kiều🦋"
     },
     "video": [
       {
-        "diggCount": 162,
+        "diggCount": 161,
         "shareCount": 0,
         "commentCount": 6,
-        "playCount": 687,
+        "playCount": 685,
         "url": "https://www.tiktok.com/@nkieu2k1/video/7166651502025641242",
         "date": 1668616082000
       },
@@ -1621,27 +1675,29 @@
   },
   {
     "user": {
-      "name": "nhudolly99",
-      "overview": "Nhưbaby🥰",
-      "heartCount": 154000,
       "followerCount": 29700,
       "followingCount": 45,
-      "videoCount": 232
+      "heart": 154000,
+      "heartCount": 154000,
+      "videoCount": 232,
+      "diggCount": 11900,
+      "user_name": "nhudolly99",
+      "user_overview": "Nhưbaby🥰"
     },
     "video": [
       {
-        "diggCount": 43,
+        "diggCount": 40,
         "shareCount": 0,
         "commentCount": 0,
-        "playCount": 239,
+        "playCount": 227,
         "url": "https://www.tiktok.com/@nhudolly99/video/7166853462200700187",
         "date": 1668663104000
       },
       {
-        "diggCount": 163,
+        "diggCount": 160,
         "shareCount": 1,
         "commentCount": 7,
-        "playCount": 2233,
+        "playCount": 2198,
         "url": "https://www.tiktok.com/@nhudolly99/video/7166847563872734491",
         "date": 1668661731000
       },
@@ -1649,7 +1705,7 @@
         "diggCount": 67,
         "shareCount": 0,
         "commentCount": 1,
-        "playCount": 321,
+        "playCount": 318,
         "url": "https://www.tiktok.com/@nhudolly99/video/7166613938614963482",
         "date": 1668607336000
       },
@@ -1657,7 +1713,7 @@
         "diggCount": 46,
         "shareCount": 0,
         "commentCount": 0,
-        "playCount": 603,
+        "playCount": 602,
         "url": "https://www.tiktok.com/@nhudolly99/video/7165142542772604186",
         "date": 1668264750000
       },
@@ -1665,7 +1721,7 @@
         "diggCount": 21,
         "shareCount": 0,
         "commentCount": 2,
-        "playCount": 395,
+        "playCount": 394,
         "url": "https://www.tiktok.com/@nhudolly99/video/7164298931411701018",
         "date": 1668068331000
       },
@@ -1673,7 +1729,7 @@
         "diggCount": 135,
         "shareCount": 1,
         "commentCount": 7,
-        "playCount": 967,
+        "playCount": 966,
         "url": "https://www.tiktok.com/@nhudolly99/video/7162856813778455835",
         "date": 1667732562000
       }
@@ -1681,19 +1737,21 @@
   },
   {
     "user": {
-      "name": "ngockemm998",
-      "overview": "Ngọc Kem 98",
-      "heartCount": 6232,
       "followerCount": 2087,
       "followingCount": 5,
-      "videoCount": 8
+      "heart": 6231,
+      "heartCount": 6231,
+      "videoCount": 8,
+      "diggCount": 529,
+      "user_name": "ngockemm998",
+      "user_overview": "Ngọc Kem 98"
     },
     "video": [
       {
-        "diggCount": 44,
+        "diggCount": 43,
         "shareCount": 0,
         "commentCount": 4,
-        "playCount": 271,
+        "playCount": 270,
         "url": "https://www.tiktok.com/@ngockemm998/video/7166287251373100315",
         "date": 1668531273000
       },
@@ -1733,12 +1791,14 @@
   },
   {
     "user": {
-      "name": "maithuylinhh99",
-      "overview": "Mai Thuỳ Linh",
-      "heartCount": 6181,
       "followerCount": 1825,
       "followingCount": 13,
-      "videoCount": 70
+      "heart": 6181,
+      "heartCount": 6181,
+      "videoCount": 70,
+      "diggCount": 424,
+      "user_name": "maithuylinhh99",
+      "user_overview": "Mai Thuỳ Linh"
     },
     "video": [
       {
@@ -1793,12 +1853,14 @@
   },
   {
     "user": {
-      "name": "lehaiyen6868",
-      "overview": "Lê Hải Yến",
-      "heartCount": 20900,
       "followerCount": 7050,
       "followingCount": 42,
-      "videoCount": 100
+      "heart": 20900,
+      "heartCount": 20900,
+      "videoCount": 100,
+      "diggCount": 4208,
+      "user_name": "lehaiyen6868",
+      "user_overview": "Lê Hải Yến"
     },
     "video": [
       {
@@ -1853,27 +1915,29 @@
   },
   {
     "user": {
-      "name": "hanaphamland",
-      "overview": "Hana Phạm Land",
-      "heartCount": 151000,
       "followerCount": 30900,
       "followingCount": 130,
-      "videoCount": 823
+      "heart": 151000,
+      "heartCount": 151000,
+      "videoCount": 823,
+      "diggCount": 51000,
+      "user_name": "hanaphamland",
+      "user_overview": "Hana Phạm Land"
     },
     "video": [
       {
-        "diggCount": 64,
+        "diggCount": 63,
         "shareCount": 0,
         "commentCount": 3,
-        "playCount": 228,
+        "playCount": 224,
         "url": "https://www.tiktok.com/@hanaphamland/video/7166885117728689434",
         "date": 1668670474000
       },
       {
-        "diggCount": 43,
+        "diggCount": 42,
         "shareCount": 0,
         "commentCount": 3,
-        "playCount": 195,
+        "playCount": 192,
         "url": "https://www.tiktok.com/@hanaphamland/video/7166840464002272539",
         "date": 1668660078000
       },
@@ -1886,18 +1950,18 @@
         "date": 1668659399000
       },
       {
-        "diggCount": 35,
+        "diggCount": 34,
         "shareCount": 0,
         "commentCount": 6,
-        "playCount": 166,
+        "playCount": 165,
         "url": "https://www.tiktok.com/@hanaphamland/video/7166810697211448602",
         "date": 1668653147000
       },
       {
-        "diggCount": 58,
+        "diggCount": 57,
         "shareCount": 0,
         "commentCount": 4,
-        "playCount": 179,
+        "playCount": 178,
         "url": "https://www.tiktok.com/@hanaphamland/video/7166752854890351899",
         "date": 1668639680000
       },
@@ -1913,19 +1977,21 @@
   },
   {
     "user": {
-      "name": "kieumiu6789",
-      "overview": "@💕 Kiều Miu 💕",
-      "heartCount": 35400,
       "followerCount": 4709,
       "followingCount": 3721,
-      "videoCount": 145
+      "heart": 35400,
+      "heartCount": 35400,
+      "videoCount": 145,
+      "diggCount": 486,
+      "user_name": "kieumiu6789",
+      "user_overview": "@💕 Kiều Miu 💕"
     },
     "video": [
       {
-        "diggCount": 26,
+        "diggCount": 24,
         "shareCount": 0,
         "commentCount": 0,
-        "playCount": 93,
+        "playCount": 87,
         "url": "https://www.tiktok.com/@kieumiu6789/video/7166851826015374618",
         "date": 1668662723000
       },
@@ -1941,15 +2007,15 @@
         "diggCount": 288,
         "shareCount": 1,
         "commentCount": 40,
-        "playCount": 873,
+        "playCount": 872,
         "url": "https://www.tiktok.com/@kieumiu6789/video/7165810031433157915",
         "date": 1668420161000
       },
       {
-        "diggCount": 43,
+        "diggCount": 42,
         "shareCount": 0,
         "commentCount": 11,
-        "playCount": 263,
+        "playCount": 262,
         "url": "https://www.tiktok.com/@kieumiu6789/video/7165336004285484315",
         "date": 1668309793000
       },
@@ -1973,27 +2039,29 @@
   },
   {
     "user": {
-      "name": "hanaphamland",
-      "overview": "Hana Phạm Land",
-      "heartCount": 151000,
       "followerCount": 30900,
       "followingCount": 130,
-      "videoCount": 823
+      "heart": 151000,
+      "heartCount": 151000,
+      "videoCount": 823,
+      "diggCount": 51000,
+      "user_name": "hanaphamland",
+      "user_overview": "Hana Phạm Land"
     },
     "video": [
       {
-        "diggCount": 64,
+        "diggCount": 63,
         "shareCount": 0,
         "commentCount": 3,
-        "playCount": 228,
+        "playCount": 224,
         "url": "https://www.tiktok.com/@hanaphamland/video/7166885117728689434",
         "date": 1668670474000
       },
       {
-        "diggCount": 43,
+        "diggCount": 42,
         "shareCount": 0,
         "commentCount": 3,
-        "playCount": 195,
+        "playCount": 192,
         "url": "https://www.tiktok.com/@hanaphamland/video/7166840464002272539",
         "date": 1668660078000
       },
@@ -2006,18 +2074,18 @@
         "date": 1668659399000
       },
       {
-        "diggCount": 35,
+        "diggCount": 34,
         "shareCount": 0,
         "commentCount": 6,
-        "playCount": 166,
+        "playCount": 165,
         "url": "https://www.tiktok.com/@hanaphamland/video/7166810697211448602",
         "date": 1668653147000
       },
       {
-        "diggCount": 58,
+        "diggCount": 57,
         "shareCount": 0,
         "commentCount": 4,
-        "playCount": 179,
+        "playCount": 178,
         "url": "https://www.tiktok.com/@hanaphamland/video/7166752854890351899",
         "date": 1668639680000
       },
@@ -2033,19 +2101,21 @@
   },
   {
     "user": {
-      "name": "giamy2209tuyetnga",
-      "overview": "Bảo Bối💎",
-      "heartCount": 26600,
       "followerCount": 3505,
       "followingCount": 54,
-      "videoCount": 141
+      "heart": 26600,
+      "heartCount": 26600,
+      "videoCount": 141,
+      "diggCount": 1281,
+      "user_name": "giamy2209tuyetnga",
+      "user_overview": "Bảo Bối💎"
     },
     "video": [
       {
-        "diggCount": 139,
+        "diggCount": 137,
         "shareCount": 0,
         "commentCount": 2,
-        "playCount": 981,
+        "playCount": 978,
         "url": "https://www.tiktok.com/@giamy2209tuyetnga/video/7166842283680189723",
         "date": 1668660501000
       },
@@ -2093,12 +2163,14 @@
   },
   {
     "user": {
-      "name": "bylun2402",
-      "overview": "Mợ 2 💜",
-      "heartCount": 12200,
       "followerCount": 1627,
       "followingCount": 1473,
-      "videoCount": 162
+      "heart": 12200,
+      "heartCount": 12200,
+      "videoCount": 162,
+      "diggCount": 5472,
+      "user_name": "bylun2402",
+      "user_overview": "Mợ 2 💜"
     },
     "video": [
       {
@@ -2153,19 +2225,21 @@
   },
   {
     "user": {
-      "name": "ngan_sori2610",
-      "overview": "꧁༺ᑎǤâᑎ๛ᔕơᖇᎥ༻꧂",
-      "heartCount": 7505,
       "followerCount": 1858,
       "followingCount": 1006,
-      "videoCount": 136
+      "heart": 7505,
+      "heartCount": 7505,
+      "videoCount": 136,
+      "diggCount": 11100,
+      "user_name": "ngan_sori2610",
+      "user_overview": "꧁༺ᑎǤâᑎ๛ᔕơᖇᎥ༻꧂"
     },
     "video": [
       {
         "diggCount": 41,
         "shareCount": 0,
         "commentCount": 7,
-        "playCount": 219,
+        "playCount": 218,
         "url": "https://www.tiktok.com/@ngan_sori2610/video/7166616898958855451",
         "date": 1668608025000
       },
@@ -2213,12 +2287,14 @@
   },
   {
     "user": {
-      "name": "neyu_peony",
-      "overview": "Nguyễn Uyển",
-      "heartCount": 58400,
       "followerCount": 9175,
       "followingCount": 118,
-      "videoCount": 252
+      "heart": 58400,
+      "heartCount": 58400,
+      "videoCount": 252,
+      "diggCount": 9967,
+      "user_name": "neyu_peony",
+      "user_overview": "Nguyễn Uyển"
     },
     "video": [
       {
@@ -2273,19 +2349,21 @@
   },
   {
     "user": {
-      "name": "tnt_1706",
-      "overview": "Huyền Trang 🐰",
-      "heartCount": 127900,
       "followerCount": 19100,
       "followingCount": 32,
-      "videoCount": 143
+      "heart": 127900,
+      "heartCount": 127900,
+      "videoCount": 143,
+      "diggCount": 6297,
+      "user_name": "tnt_1706",
+      "user_overview": "Huyền Trang 🐰"
     },
     "video": [
       {
-        "diggCount": 103,
+        "diggCount": 101,
         "shareCount": 0,
         "commentCount": 1,
-        "playCount": 471,
+        "playCount": 453,
         "url": "https://www.tiktok.com/@tnt_1706/video/7166835642897370395",
         "date": 1668658955000
       },
@@ -2293,15 +2371,15 @@
         "diggCount": 152,
         "shareCount": 0,
         "commentCount": 5,
-        "playCount": 823,
+        "playCount": 819,
         "url": "https://www.tiktok.com/@tnt_1706/video/7166565821257452826",
         "date": 1668596132000
       },
       {
-        "diggCount": 205,
+        "diggCount": 204,
         "shareCount": 0,
         "commentCount": 3,
-        "playCount": 1124,
+        "playCount": 1120,
         "url": "https://www.tiktok.com/@tnt_1706/video/7166103708231650587",
         "date": 1668488538000
       },
@@ -2309,7 +2387,7 @@
         "diggCount": 222,
         "shareCount": 0,
         "commentCount": 7,
-        "playCount": 1233,
+        "playCount": 1231,
         "url": "https://www.tiktok.com/@tnt_1706/video/7165735181561662747",
         "date": 1668402734000
       },
@@ -2317,7 +2395,7 @@
         "diggCount": 383,
         "shareCount": 1,
         "commentCount": 6,
-        "playCount": 2216,
+        "playCount": 2214,
         "url": "https://www.tiktok.com/@tnt_1706/video/7164944538593791258",
         "date": 1668218648000
       },
@@ -2325,7 +2403,7 @@
         "diggCount": 611,
         "shareCount": 0,
         "commentCount": 11,
-        "playCount": 3504,
+        "playCount": 3500,
         "url": "https://www.tiktok.com/@tnt_1706/video/7164617226362899738",
         "date": 1668142440000
       }
@@ -2333,19 +2411,21 @@
   },
   {
     "user": {
-      "name": "tongthixuan_03",
-      "overview": "Lý A Xuân🐶🐷",
-      "heartCount": 606600,
       "followerCount": 50400,
       "followingCount": 17,
-      "videoCount": 93
+      "heart": 606600,
+      "heartCount": 606600,
+      "videoCount": 93,
+      "diggCount": 9697,
+      "user_name": "tongthixuan_03",
+      "user_overview": "Lý A Xuân🐶🐷"
     },
     "video": [
       {
-        "diggCount": 502,
+        "diggCount": 496,
         "shareCount": 0,
         "commentCount": 11,
-        "playCount": 2026,
+        "playCount": 1999,
         "url": "https://www.tiktok.com/@tongthixuan_03/video/7166777415287508251",
         "date": 1668645398000
       },
@@ -2353,15 +2433,15 @@
         "diggCount": 584,
         "shareCount": 3,
         "commentCount": 9,
-        "playCount": 2872,
+        "playCount": 2869,
         "url": "https://www.tiktok.com/@tongthixuan_03/video/7166168843365240091",
         "date": 1668503704000
       },
       {
-        "diggCount": 580,
+        "diggCount": 579,
         "shareCount": 1,
         "commentCount": 7,
-        "playCount": 2162,
+        "playCount": 2161,
         "url": "https://www.tiktok.com/@tongthixuan_03/video/7166166081701285147",
         "date": 1668503061000
       },
@@ -2374,10 +2454,10 @@
         "date": 1668337499000
       },
       {
-        "diggCount": 954,
+        "diggCount": 953,
         "shareCount": 0,
         "commentCount": 12,
-        "playCount": 4071,
+        "playCount": 4069,
         "url": "https://www.tiktok.com/@tongthixuan_03/video/7165098927149026587",
         "date": 1668254595000
       },
@@ -2393,19 +2473,21 @@
   },
   {
     "user": {
-      "name": "_nhung_dayy2",
-      "overview": "Thuỳ Nhung",
-      "heartCount": 6338,
       "followerCount": 1727,
       "followingCount": 192,
-      "videoCount": 73
+      "heart": 6338,
+      "heartCount": 6338,
+      "videoCount": 73,
+      "diggCount": 330,
+      "user_name": "_nhung_dayy2",
+      "user_overview": "Thuỳ Nhung"
     },
     "video": [
       {
         "diggCount": 37,
         "shareCount": 0,
         "commentCount": 0,
-        "playCount": 117,
+        "playCount": 116,
         "url": "https://www.tiktok.com/@_nhung_dayy2/video/7166566257280552218",
         "date": 1668596234000
       },
@@ -2453,19 +2535,21 @@
   },
   {
     "user": {
-      "name": "thuymai_16",
-      "overview": "Mai_1905",
-      "heartCount": 8598,
       "followerCount": 1349,
       "followingCount": 349,
-      "videoCount": 32
+      "heart": 8597,
+      "heartCount": 8597,
+      "videoCount": 32,
+      "diggCount": 1153,
+      "user_name": "thuymai_16",
+      "user_overview": "Mai_1905"
     },
     "video": [
       {
-        "diggCount": 37,
+        "diggCount": 36,
         "shareCount": 0,
         "commentCount": 0,
-        "playCount": 119,
+        "playCount": 114,
         "url": "https://www.tiktok.com/@thuymai_16/video/7166841950555983131",
         "date": 1668660424000
       },
@@ -2473,7 +2557,7 @@
         "diggCount": 27,
         "shareCount": 0,
         "commentCount": 0,
-        "playCount": 173,
+        "playCount": 170,
         "url": "https://www.tiktok.com/@thuymai_16/video/7166839998782639386",
         "date": 1668659969000
       },
@@ -2481,7 +2565,7 @@
         "diggCount": 43,
         "shareCount": 0,
         "commentCount": 0,
-        "playCount": 193,
+        "playCount": 190,
         "url": "https://www.tiktok.com/@thuymai_16/video/7166839955203902746",
         "date": 1668659959000
       },
@@ -2489,7 +2573,7 @@
         "diggCount": 36,
         "shareCount": 0,
         "commentCount": 1,
-        "playCount": 196,
+        "playCount": 191,
         "url": "https://www.tiktok.com/@thuymai_16/video/7166839897725209882",
         "date": 1668659946000
       },
@@ -2497,7 +2581,7 @@
         "diggCount": 53,
         "shareCount": 0,
         "commentCount": 1,
-        "playCount": 170,
+        "playCount": 168,
         "url": "https://www.tiktok.com/@thuymai_16/video/7166838673713925403",
         "date": 1668659661000
       },
@@ -2505,7 +2589,7 @@
         "diggCount": 45,
         "shareCount": 0,
         "commentCount": 1,
-        "playCount": 167,
+        "playCount": 165,
         "url": "https://www.tiktok.com/@thuymai_16/video/7166824716332698907",
         "date": 1668656411000
       }
@@ -2513,12 +2597,14 @@
   },
   {
     "user": {
-      "name": "thanhhuyen_2208",
-      "overview": "Lò Thanh Huyền❤️🦋",
-      "heartCount": 31300,
       "followerCount": 3218,
       "followingCount": 1020,
-      "videoCount": 715
+      "heart": 31300,
+      "heartCount": 31300,
+      "videoCount": 715,
+      "diggCount": 16900,
+      "user_name": "thanhhuyen_2208",
+      "user_overview": "Lò Thanh Huyền❤️🦋"
     },
     "video": [
       {
@@ -2533,7 +2619,7 @@
         "diggCount": 42,
         "shareCount": 0,
         "commentCount": 3,
-        "playCount": 216,
+        "playCount": 215,
         "url": "https://www.tiktok.com/@thanhhuyen_2208/video/7166428626106240283",
         "date": 1668564189000
       },
@@ -2549,7 +2635,7 @@
         "diggCount": 95,
         "shareCount": 0,
         "commentCount": 5,
-        "playCount": 361,
+        "playCount": 359,
         "url": "https://www.tiktok.com/@thanhhuyen_2208/video/7166216424791215386",
         "date": 1668514782000
       },
@@ -2573,19 +2659,21 @@
   },
   {
     "user": {
-      "name": "nguyet01820",
-      "overview": "Fb:Thanh Nguyệt",
-      "heartCount": 7539,
       "followerCount": 1779,
       "followingCount": 131,
-      "videoCount": 20
+      "heart": 7537,
+      "heartCount": 7537,
+      "videoCount": 20,
+      "diggCount": 2818,
+      "user_name": "nguyet01820",
+      "user_overview": "Fb:Thanh Nguyệt"
     },
     "video": [
       {
-        "diggCount": 32,
+        "diggCount": 30,
         "shareCount": 0,
         "commentCount": 0,
-        "playCount": 78,
+        "playCount": 76,
         "url": "https://www.tiktok.com/@nguyet01820/video/7166859713403948314",
         "date": 1668664560000
       },
@@ -2633,12 +2721,14 @@
   },
   {
     "user": {
-      "name": "oanht0310",
-      "overview": "Ngoc Oanh( Sín) 🥀",
-      "heartCount": 95300,
       "followerCount": 6190,
       "followingCount": 397,
-      "videoCount": 181
+      "heart": 95300,
+      "heartCount": 95300,
+      "videoCount": 181,
+      "diggCount": 38200,
+      "user_name": "oanht0310",
+      "user_overview": "Ngoc Oanh( Sín) 🥀"
     },
     "video": [
       {
@@ -2685,7 +2775,7 @@
         "diggCount": 17,
         "shareCount": 0,
         "commentCount": 0,
-        "playCount": 109,
+        "playCount": 108,
         "url": "https://www.tiktok.com/@oanht0310/video/7164553348765519130",
         "date": 1668127567000
       }
@@ -2693,12 +2783,14 @@
   },
   {
     "user": {
-      "name": "h.dieep",
-      "overview": "𝙃𝙤𝙣𝙜 𝘿𝙞𝙚𝙥 🍭",
-      "heartCount": 15200,
       "followerCount": 2293,
       "followingCount": 192,
-      "videoCount": 120
+      "heart": 15200,
+      "heartCount": 15200,
+      "videoCount": 120,
+      "diggCount": 10800,
+      "user_name": "h.dieep",
+      "user_overview": "𝙃𝙤𝙣𝙜 𝘿𝙞𝙚𝙥 🍭"
     },
     "video": [
       {
@@ -2753,12 +2845,14 @@
   },
   {
     "user": {
-      "name": "oanht0310",
-      "overview": "Ngoc Oanh( Sín) 🥀",
-      "heartCount": 95300,
       "followerCount": 6190,
       "followingCount": 397,
-      "videoCount": 181
+      "heart": 95300,
+      "heartCount": 95300,
+      "videoCount": 181,
+      "diggCount": 38200,
+      "user_name": "oanht0310",
+      "user_overview": "Ngoc Oanh( Sín) 🥀"
     },
     "video": [
       {
@@ -2805,7 +2899,7 @@
         "diggCount": 17,
         "shareCount": 0,
         "commentCount": 0,
-        "playCount": 109,
+        "playCount": 108,
         "url": "https://www.tiktok.com/@oanht0310/video/7164553348765519130",
         "date": 1668127567000
       }
@@ -2813,12 +2907,14 @@
   },
   {
     "user": {
-      "name": "lqn.28th11",
-      "overview": "Phạm Quỳnh Như",
-      "heartCount": 6596,
       "followerCount": 1185,
       "followingCount": 162,
-      "videoCount": 164
+      "heart": 6596,
+      "heartCount": 6596,
+      "videoCount": 164,
+      "diggCount": 1425,
+      "user_name": "lqn.28th11",
+      "user_overview": "Phạm Quỳnh Như"
     },
     "video": [
       {
@@ -2873,12 +2969,14 @@
   },
   {
     "user": {
-      "name": "oanht0310",
-      "overview": "Ngoc Oanh( Sín) 🥀",
-      "heartCount": 95300,
       "followerCount": 6190,
       "followingCount": 397,
-      "videoCount": 181
+      "heart": 95300,
+      "heartCount": 95300,
+      "videoCount": 181,
+      "diggCount": 38200,
+      "user_name": "oanht0310",
+      "user_overview": "Ngoc Oanh( Sín) 🥀"
     },
     "video": [
       {
@@ -2925,7 +3023,7 @@
         "diggCount": 17,
         "shareCount": 0,
         "commentCount": 0,
-        "playCount": 109,
+        "playCount": 108,
         "url": "https://www.tiktok.com/@oanht0310/video/7164553348765519130",
         "date": 1668127567000
       }
@@ -2933,12 +3031,14 @@
   },
   {
     "user": {
-      "name": "goiemlatrang05",
-      "overview": "Near 🍄",
-      "heartCount": 10500,
       "followerCount": 1395,
       "followingCount": 11,
-      "videoCount": 32
+      "heart": 10500,
+      "heartCount": 10500,
+      "videoCount": 32,
+      "diggCount": 803,
+      "user_name": "goiemlatrang05",
+      "user_overview": "Near 🍄"
     },
     "video": [
       {
