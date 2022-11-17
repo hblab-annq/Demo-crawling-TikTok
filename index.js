@@ -3,7 +3,6 @@ const request = require("request-promise");
 const fs = require("fs");
 
 const getTikTokUserInfo = require("./crawl/user");
-const getVideoData = require("./crawl/video");
 
 getTikTokUserInfo()
   .then((data) => fs.writeFileSync("./data/data.json", JSON.stringify(data)))

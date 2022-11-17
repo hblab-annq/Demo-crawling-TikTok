@@ -24,24 +24,26 @@ const getTikTokUserInfo = async function () {
     await request(options, (error, response, html) => {
       if (!error && response.statusCode == 200) {
         const $ = cheerio.load(html);
-        const title = $("[data-e2e='user-title']").text().trim();
-        const subtitle = $("[data-e2e='user-subtitle']").text().trim();
-        const following = $("[data-e2e='following-count']").text().trim();
-        const followers = $("[data-e2e='followers-count']").text().trim();
-        const likes = $("[data-e2e='likes-count']").text().trim();
-        const list_link_video = $("[data-e2e='user-post-item'] a")
-          .filter((index, el) => index < 6)
-          .map((index, el) => $(el).attr("href"))
-          .toArray();
-        // const video = list_link_video.map((uri) => getVideoData(uri));
+        let json = $("#SIGI_STATE").text();
+        json = json.split("\n").join().split('\\"').join("");
+        let obj = JSON.parse(json);
+        let list_vid_id = obj.ItemList["user-post"].list.splice(0, 6);
+
+        let vid0 = obj.ItemModule[list_vid_id[0]];
+
+        let user_info = vid0.authorStats;
+
+        let arr_vid = [];
+        for (const id of list_vid_id) {
+          let url = uri + `/video/` + id;
+          let vid_stat = obj.ItemModule[id].stats;
+          vid_stat.url = url;
+          arr_vid.push(vid_stat);
+        }
 
         data.push({
-          title,
-          subtitle,
-          following,
-          followers,
-          likes,
-          list_link_video,
+          user: user_info,
+          video: arr_vid,
         });
       } else {
         console.log("user");
